@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog date="2025-11-18T11:07:45+05:00" version="1">
+<kaspi_catalog date="2025-11-18T11:37:45+05:00" version="1">
   <company>Qyzmet Store</company>
   <offers>
     <offer sku="SKU001" available="yes" preOrder="no">
@@ -43,6 +43,13 @@
       <storeId>PP1</storeId>
       <price>3900.00</price>
       <stockCount>25</stockCount>
+    </offer>
+    <offer sku="SKU007" available="yes" preOrder="no">
+      <model>Пиджак белый 48</model>
+      <brand></brand>
+      <storeId>PP1</storeId>
+      <price>8100.00</price>
+      <stockCount>7</stockCount>
     </offer>
   </offers>
 </kaspi_catalog>
