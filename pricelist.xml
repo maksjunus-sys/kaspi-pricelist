@@ -1,55 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog date="2025-11-18T11:37:45+05:00" version="1">
-  <company>Qyzmet Store</company>
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog date="2025-11-18T11:42:24+05:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+  <company>ИП Archer</company>
+  <merchantid>30419919</merchantid>
   <offers>
-    <offer sku="SKU001" available="yes" preOrder="no">
+    <offer sku="SKU001">
       <model>Нарядное платье Пайетки фиолтовый 116</model>
       <brand></brand>
-      <storeId>PP1</storeId>
+      <availabilities>
+        <availability available="yes" storeId="PP1" preOrder="25" stockCount="25"/>
+      </availabilities>
       <price>5200.00</price>
-      <stockCount>25</stockCount>
     </offer>
-    <offer sku="SKU002" available="yes" preOrder="no">
+    <offer sku="SKU002">
       <model>Пайетки фиолетовый 128</model>
       <brand></brand>
-      <storeId>PP1</storeId>
+      <availabilities>
+        <availability available="yes" storeId="PP1" preOrder="25" stockCount="25"/>
+      </availabilities>
       <price>5200.00</price>
-      <stockCount>25</stockCount>
     </offer>
-    <offer sku="SKU003" available="yes" preOrder="no">
+    <offer sku="SKU003">
       <model>Пижама Фиалетовый 134</model>
       <brand></brand>
-      <storeId>PP1</storeId>
+      <availabilities>
+        <availability available="yes" storeId="PP1" preOrder="25" stockCount="25"/>
+      </availabilities>
       <price>2900.00</price>
-      <stockCount>25</stockCount>
     </offer>
-    <offer sku="SKU004" available="yes" preOrder="no">
+    <offer sku="SKU004">
       <model>Пижама Hello Kitty розовый 128</model>
       <brand></brand>
-      <storeId>PP1</storeId>
+      <availabilities>
+        <availability available="yes" storeId="PP1" preOrder="25" stockCount="25"/>
+      </availabilities>
       <price>5900.00</price>
-      <stockCount>25</stockCount>
     </offer>
-    <offer sku="SKU005" available="yes" preOrder="no">
+    <offer sku="SKU005">
       <model>Пижама Hello Kitty фиолет, сирень 134</model>
       <brand></brand>
-      <storeId>PP1</storeId>
+      <availabilities>
+        <availability available="yes" storeId="PP1" preOrder="25" stockCount="25"/>
+      </availabilities>
       <price>6200.00</price>
-      <stockCount>25</stockCount>
     </offer>
-    <offer sku="SKU006" available="yes" preOrder="no">
+    <offer sku="SKU006">
       <model>Комплект Красный 48</model>
       <brand></brand>
-      <storeId>PP1</storeId>
+      <availabilities>
+        <availability available="yes" storeId="PP1" preOrder="25" stockCount="25"/>
+      </availabilities>
       <price>3900.00</price>
-      <stockCount>25</stockCount>
     </offer>
-    <offer sku="SKU007" available="yes" preOrder="no">
+    <offer sku="SKU007">
       <model>Пиджак белый 48</model>
       <brand></brand>
-      <storeId>PP1</storeId>
+      <availabilities>
+        <availability available="yes" storeId="PP1" preOrder="23" stockCount="7"/>
+      </availabilities>
       <price>8100.00</price>
-      <stockCount>7</stockCount>
     </offer>
   </offers>
 </kaspi_catalog>
