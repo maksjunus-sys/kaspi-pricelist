@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2025-11-19T12:07:48+05:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2025-11-19T12:37:47+05:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>ИП Archer</company>
   <merchantid>30419919</merchantid>
   <offers>
@@ -41,7 +41,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="25" preOrder="25"/>
       </availabilities>
-      <price>6200</price>
+      <price>6100</price>
     </offer>
     <offer sku="SKU006">
       <model>Комплект Красный 48</model>
@@ -114,6 +114,46 @@
         <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
       </availabilities>
       <price>5800</price>
+    </offer>
+    <offer sku="SKU015">
+      <model>Свитшот фиолетовый 98</model>
+      <brand>136299072</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
+      </availabilities>
+      <price>2600</price>
+    </offer>
+    <offer sku="SKU016">
+      <model>Свитшот фиолетовый 104</model>
+      <brand>136299124</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
+      </availabilities>
+      <price>2700</price>
+    </offer>
+    <offer sku="SKU017">
+      <model>Свитшот фиолетовый 110</model>
+      <brand>136299306</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
+      </availabilities>
+      <price>2650</price>
+    </offer>
+    <offer sku="SKU018">
+      <model>Свитшот фиолетовый 116</model>
+      <brand>136299075</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
+      </availabilities>
+      <price>2650</price>
+    </offer>
+    <offer sku="SKU019">
+      <model>Свитшот фиолетовый 122</model>
+      <brand>136299258</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
+      </availabilities>
+      <price>2650</price>
     </offer>
   </offers>
 </kaspi_catalog>
