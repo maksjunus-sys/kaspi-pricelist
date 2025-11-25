@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2025-11-25T15:54:52+05:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2025-11-25T16:54:54+05:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>ИП Archer</company>
   <merchantid>30419919</merchantid>
   <offers>
@@ -33,7 +33,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="25" preOrder="25"/>
       </availabilities>
-      <price>3900</price>
+      <price>3400</price>
     </offer>
     <offer sku="SKU007">
       <model>Пиджак белый 48</model>
@@ -41,7 +41,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
       </availabilities>
-      <price>7500</price>
+      <price>7100</price>
     </offer>
     <offer sku="SKU008">
       <model>Платье чёрный Wednesday</model>
@@ -50,14 +50,6 @@
         <availability available="yes" storeId="PP1" stockCount="10" preOrder="23"/>
       </availabilities>
       <price>7900</price>
-    </offer>
-    <offer sku="SKU009">
-      <model>Шуба белый,бежевый</model>
-      <brand>131749033</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
-      </availabilities>
-      <price>9300</price>
     </offer>
     <offer sku="SKU010">
       <model>Кардиган белый</model>
@@ -83,46 +75,6 @@
       </availabilities>
       <price>5800</price>
     </offer>
-    <offer sku="SKU015">
-      <model>Свитшот фиолетовый 98</model>
-      <brand>136299072</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
-      </availabilities>
-      <price>2600</price>
-    </offer>
-    <offer sku="SKU016">
-      <model>Свитшот фиолетовый 104</model>
-      <brand>136299124</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
-      </availabilities>
-      <price>2700</price>
-    </offer>
-    <offer sku="SKU017">
-      <model>Свитшот фиолетовый 110</model>
-      <brand>136299306</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
-      </availabilities>
-      <price>2650</price>
-    </offer>
-    <offer sku="SKU018">
-      <model>Свитшот фиолетовый 116</model>
-      <brand>136299075</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
-      </availabilities>
-      <price>2650</price>
-    </offer>
-    <offer sku="SKU019">
-      <model>Свитшот фиолетовый 122</model>
-      <brand>136299258</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
-      </availabilities>
-      <price>2650</price>
-    </offer>
     <offer sku="SKU020">
       <model>Платье рубашка темно-синий S 44</model>
       <brand>134481303</brand>
@@ -147,21 +99,13 @@
       </availabilities>
       <price>5800</price>
     </offer>
-    <offer sku="SKU026">
-      <model>Вафельный халат голубой 44 рр</model>
-      <brand>143313189</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
-      </availabilities>
-      <price>7500</price>
-    </offer>
     <offer sku="SKU029">
       <model>Вафельный белый халат 42 рр</model>
       <brand>147079031</brand>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
       </availabilities>
-      <price>9900</price>
+      <price>8900</price>
     </offer>
     <offer sku="SKU030">
       <model>Костюм повсед.темно-зел. 42 рр</model>
@@ -177,7 +121,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
       </availabilities>
-      <price>10900</price>
+      <price>10300</price>
     </offer>
     <offer sku="SKU032">
       <model>Костюм повсед.коричневый 48 рр</model>
@@ -185,7 +129,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
       </availabilities>
-      <price>10600</price>
+      <price>9800</price>
     </offer>
     <offer sku="SKU033">
       <model>Костюм повсед.коричневый 50 рр</model>
@@ -201,7 +145,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
       </availabilities>
-      <price>8300</price>
+      <price>7900</price>
     </offer>
     <offer sku="SKU037">
       <model>Массажер силикон</model>
