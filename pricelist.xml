@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2025-12-06T15:27:35+05:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2025-12-06T15:57:35+05:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>ИП Archer</company>
   <merchantid>30419919</merchantid>
   <offers>
@@ -25,7 +25,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
       </availabilities>
-      <price>7800</price>
+      <price>6490</price>
     </offer>
     <offer sku="SKU014">
       <model>Платье рубашка темно-синий XS 42</model>
@@ -90,6 +90,14 @@
         <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
       </availabilities>
       <price>7100</price>
+    </offer>
+    <offer sku="SKU012">
+      <model>Костюм повседневный графит</model>
+      <brand>145668341</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
+      </availabilities>
+      <price>9490</price>
     </offer>
   </offers>
 </kaspi_catalog>
