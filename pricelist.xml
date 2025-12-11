@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2025-12-11T20:57:35+05:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2025-12-11T21:27:36+05:00" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>ИП Archer</company>
   <merchantid>30419919</merchantid>
   <offers>
-    <offer sku="SKU031">
-      <model>Костюм повсед.коричневый 44 рр</model>
-      <brand>131219309</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
-      </availabilities>
-      <price>10300</price>
-    </offer>
-    <offer sku="SKU033">
-      <model>Костюм повсед.коричневый 50 рр</model>
-      <brand>124285455</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="15" preOrder="23"/>
-      </availabilities>
-      <price>10500</price>
-    </offer>
-    <offer sku="SKU012">
-      <model>Костюм повседневный графит</model>
-      <brand>145668341</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
-      </availabilities>
-      <price>10300</price>
-    </offer>
     <offer sku="SKU025">
       <model>Шуба чёрный 42</model>
       <brand>132728704</brand>
@@ -34,62 +10,6 @@
         <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
       </availabilities>
       <price>10200</price>
-    </offer>
-    <offer sku="SKU026">
-      <model>Шуба чёрный 44</model>
-      <brand>123881291</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
-      </availabilities>
-      <price>9500</price>
-    </offer>
-    <offer sku="SKU029">
-      <model>Шуба чёрный 50</model>
-      <brand>130377917</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
-      </availabilities>
-      <price>9999</price>
-    </offer>
-    <offer sku="SKU030">
-      <model>Шуба чёрный 52</model>
-      <brand>130377918</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
-      </availabilities>
-      <price>10400</price>
-    </offer>
-    <offer sku="SKU031">
-      <model>Шуба серый 50</model>
-      <brand>148844041</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
-      </availabilities>
-      <price>7500</price>
-    </offer>
-    <offer sku="SKU032">
-      <model>Шуба коричневый 44</model>
-      <brand>123875494</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
-      </availabilities>
-      <price>8350</price>
-    </offer>
-    <offer sku="SKU033">
-      <model>Шуба коричневый 46</model>
-      <brand>130377921</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
-      </availabilities>
-      <price>7700</price>
-    </offer>
-    <offer sku="SKU034">
-      <model>Костюм повседневный графит 46М</model>
-      <brand>145668342</brand>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="25" preOrder="23"/>
-      </availabilities>
-      <price>10500</price>
     </offer>
     <offer sku="SKU036">
       <model>Шуба серебристый 40</model>
